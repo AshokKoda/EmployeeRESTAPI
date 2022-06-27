@@ -1,0 +1,4 @@
+id,fname,lname,email,phoneno,doj,salary,total_salary,tax_pay
+1,Koda,Ashok,ashok@gmail.com,1234567891,01-04-2022,25000,300000,287500
+2,M,Rupa,rupa@gmail.com,1234567891,02-04-2022,35000,420000,407500
+3,KK,Trinadh,trinadh@gmail.com,1234567891,02-04-2022,45000,540000,527500
